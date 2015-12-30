@@ -12,6 +12,7 @@
 		FA0363191C33C85100EDB77B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA0363171C33C85100EDB77B /* Main.storyboard */; };
 		FA03631B1C33C85100EDB77B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA03631A1C33C85100EDB77B /* Assets.xcassets */; };
 		FA03631E1C33C85100EDB77B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA03631C1C33C85100EDB77B /* LaunchScreen.storyboard */; };
+		FA203B831C34033A0061814C /* level1.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA203B821C34033A0061814C /* level1.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FA03631A1C33C85100EDB77B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA03631D1C33C85100EDB77B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA03631F1C33C85100EDB77B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA203B821C34033A0061814C /* level1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level1.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				FA0363151C33C85100EDB77B /* ViewController.swift */,
 				FA0363171C33C85100EDB77B /* Main.storyboard */,
 				FA03631A1C33C85100EDB77B /* Assets.xcassets */,
+				FA203B821C34033A0061814C /* level1.txt */,
 				FA03631C1C33C85100EDB77B /* LaunchScreen.storyboard */,
 				FA03631F1C33C85100EDB77B /* Info.plist */,
 			);
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA03631E1C33C85100EDB77B /* LaunchScreen.storyboard in Resources */,
+				FA203B831C34033A0061814C /* level1.txt in Resources */,
 				FA03631B1C33C85100EDB77B /* Assets.xcassets in Resources */,
 				FA0363191C33C85100EDB77B /* Main.storyboard in Resources */,
 			);
@@ -287,6 +291,7 @@
 				FA0363241C33C85100EDB77B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
